@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YADOYSwzruHtvH73ZqI0ZH79/FX7zMPGftTd9fzXB9qaAfQejY6XMKvyQigyJKuuww9xe2NzeLneK7F0IrG4Yg==",
+  "dgSpecHash": "Qto703IAAxG1cenf6eKnZ5eMigctgpCZtzbHvNTDFiAPxmemNNVeg03zMT34j3cJ3iKRa6DQ9TYmAq53pHgZtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HONOR\\source\\repos\\WhiteSoftTest\\WhiteSoftTest.csproj",
+  "projectFilePath": "C:\\Users\\HONOR\\Documents\\GitHub\\WhiteSoftTest\\WhiteSoftTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HONOR\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

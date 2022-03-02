@@ -1,0 +1,15 @@
+C:\Users\HONOR\Documents\GitHub\WhiteSoftTest\bin\Release\netcoreapp3.1\WhiteSoftTest.exe
+C:\Users\HONOR\Documents\GitHub\WhiteSoftTest\bin\Release\netcoreapp3.1\WhiteSoftTest.deps.json
+C:\Users\HONOR\Documents\GitHub\WhiteSoftTest\bin\Release\netcoreapp3.1\WhiteSoftTest.runtimeconfig.json
+C:\Users\HONOR\Documents\GitHub\WhiteSoftTest\bin\Release\netcoreapp3.1\WhiteSoftTest.runtimeconfig.dev.json
+C:\Users\HONOR\Documents\GitHub\WhiteSoftTest\bin\Release\netcoreapp3.1\WhiteSoftTest.dll
+C:\Users\HONOR\Documents\GitHub\WhiteSoftTest\bin\Release\netcoreapp3.1\WhiteSoftTest.pdb
+C:\Users\HONOR\Documents\GitHub\WhiteSoftTest\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HONOR\Documents\GitHub\WhiteSoftTest\obj\Release\netcoreapp3.1\WhiteSoftTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Documents\GitHub\WhiteSoftTest\obj\Release\netcoreapp3.1\WhiteSoftTest.AssemblyInfoInputs.cache
+C:\Users\HONOR\Documents\GitHub\WhiteSoftTest\obj\Release\netcoreapp3.1\WhiteSoftTest.AssemblyInfo.cs
+C:\Users\HONOR\Documents\GitHub\WhiteSoftTest\obj\Release\netcoreapp3.1\WhiteSoftTest.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Documents\GitHub\WhiteSoftTest\obj\Release\netcoreapp3.1\WhiteSoftTest.csproj.CopyComplete
+C:\Users\HONOR\Documents\GitHub\WhiteSoftTest\obj\Release\netcoreapp3.1\WhiteSoftTest.dll
+C:\Users\HONOR\Documents\GitHub\WhiteSoftTest\obj\Release\netcoreapp3.1\WhiteSoftTest.pdb
+C:\Users\HONOR\Documents\GitHub\WhiteSoftTest\obj\Release\netcoreapp3.1\WhiteSoftTest.genruntimeconfig.cache

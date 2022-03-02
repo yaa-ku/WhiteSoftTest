@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HONOR\\source\\repos\\WhiteSoftTest\\WhiteSoftTest.csproj": {}
+    "C:\\Users\\HONOR\\Documents\\GitHub\\WhiteSoftTest\\WhiteSoftTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HONOR\\source\\repos\\WhiteSoftTest\\WhiteSoftTest.csproj": {
+    "C:\\Users\\HONOR\\Documents\\GitHub\\WhiteSoftTest\\WhiteSoftTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HONOR\\source\\repos\\WhiteSoftTest\\WhiteSoftTest.csproj",
+        "projectUniqueName": "C:\\Users\\HONOR\\Documents\\GitHub\\WhiteSoftTest\\WhiteSoftTest.csproj",
         "projectName": "WhiteSoftTest",
-        "projectPath": "C:\\Users\\HONOR\\source\\repos\\WhiteSoftTest\\WhiteSoftTest.csproj",
+        "projectPath": "C:\\Users\\HONOR\\Documents\\GitHub\\WhiteSoftTest\\WhiteSoftTest.csproj",
         "packagesPath": "C:\\Users\\HONOR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HONOR\\source\\repos\\WhiteSoftTest\\obj\\",
+        "outputPath": "C:\\Users\\HONOR\\Documents\\GitHub\\WhiteSoftTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HONOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
